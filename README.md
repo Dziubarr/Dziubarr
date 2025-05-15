@@ -1,7 +1,5 @@
 <h2>👋 Hello, I'm Dziubar</h2>
 
-<h3>🛠️ Tech Stack</h3>
-
 <p>
   <strong>Languages & Scripting:</strong><br>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" width="30" alt="Lua" title="Lua">
@@ -30,4 +28,3 @@
   <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="30" alt="Grafana" title="Grafana">
 </p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=dziubar&layout=compact&show_icons=true&locale=en" alt="dziubar" /></p>
