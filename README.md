@@ -26,5 +26,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="30" alt="Git" title="Git">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="30" alt="Docker" title="Docker">
   <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="30" alt="Grafana" title="Grafana">
+  <img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" width="30" alt="Nginx" title="Nginx">
+  <img src="https://www.vectorlogo.zone/logos/haproxy/haproxy-icon.svg" width="30" alt="HAProxy" title="HAProxy">
 </p>
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=dziubar&layout=compact&show_icons=true" alt="dziubar" />
