@@ -1,7 +1,7 @@
 <h2>👋 Hello, I'm Dziubar</h2>
 
 <p>
-  <strong>Languages & Scripting:</strong><br>
+  <strong>Languages:</strong><br>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" width="30" alt="Lua" title="Lua">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="30" alt="HTML" title="HTML5">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="30" alt="CSS" title="CSS3">
