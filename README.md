@@ -7,7 +7,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="30" alt="CSS" title="CSS3">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30" alt="JavaScript" title="JavaScript">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="30" alt="TypeScript" title="TypeScript">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="30" alt="Node.js" title="Node.js">
 </p>
 
 <p>
@@ -29,6 +28,7 @@
   <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="30" alt="Grafana" title="Grafana">
   <img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" width="30" alt="Nginx" title="Nginx">
   <img src="https://www.vectorlogo.zone/logos/haproxy/haproxy-icon.svg" width="30" alt="HAProxy" title="HAProxy">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="30" alt="Node.js" title="Node.js">
 </p>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=dziubar&layout=compact&show_icons=true" alt="dziubar" />
